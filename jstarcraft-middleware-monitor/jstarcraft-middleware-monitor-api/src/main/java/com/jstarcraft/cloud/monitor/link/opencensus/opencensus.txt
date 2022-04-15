@@ -1,0 +1,8 @@
+OpenCensus官方文档:
+https://opencensus.io
+
+Open Tracestate API for custom info propagation:
+https://github.com/census-instrumentation/opencensus-java/issues/1465
+
+DevOps 漫谈：基于OpenCensus构建分布式跟踪系统:
+https://www.jianshu.com/p/d6a2f124c766

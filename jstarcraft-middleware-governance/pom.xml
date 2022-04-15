@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.jstarcraft</groupId>
+        <artifactId>jstarcraft-middleware</artifactId>
+        <version>1.0</version>
+    </parent>
+
+    <artifactId>jstarcraft-middleware-governance</artifactId>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>jstarcraft-middleware-governance-api</module>
+        <module>jstarcraft-middleware-governance-consul</module>
+        <module>jstarcraft-middleware-governance-etcd</module>
+        <module>jstarcraft-middleware-governance-eureka</module>
+        <module>jstarcraft-middleware-governance-kubernetes</module>
+        <module>jstarcraft-middleware-governance-nacos</module>
+        <module>jstarcraft-middleware-governance-redis</module>
+        <module>jstarcraft-middleware-governance-zookeeper</module>
+    </modules>
+</project>

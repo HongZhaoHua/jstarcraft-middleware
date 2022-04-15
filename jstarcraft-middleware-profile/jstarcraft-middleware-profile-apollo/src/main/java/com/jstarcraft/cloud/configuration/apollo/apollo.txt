@@ -1,0 +1,17 @@
+分布式配置中心Apollo：在本地Windows系统下搭建Apollo配置中心:
+https://blog.csdn.net/q15102780705/article/details/102255192
+
+Windows部署Apollo:
+https://www.cnblogs.com/weihengblogs/p/10147925.html
+
+Apollo热发布以及OpenAPI调用:
+https://www.jianshu.com/p/6e243bfa9ed2
+
+Apollo学习:
+https://blog.csdn.net/sinat_36553913/category_8080429.html
+
+Apollo 2 如何支持 @Value 注解自动更新:
+https://www.cnblogs.com/stateis0/p/9247967.html
+
+Apollo 源码解析:
+http://www.iocoder.cn/Apollo

@@ -1,0 +1,5 @@
+Spring Cloud Config 流程源码详解:
+https://www.jianshu.com/p/cd27dac270a2
+
+Spring Cloud Config 实现配置中心，看这一篇就够了:
+https://www.cnblogs.com/fengzheng/p/11242128.html

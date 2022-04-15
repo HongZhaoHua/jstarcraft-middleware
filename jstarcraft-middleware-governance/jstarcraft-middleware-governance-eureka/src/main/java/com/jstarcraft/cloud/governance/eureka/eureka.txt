@@ -1,0 +1,13 @@
+享学Eureka:
+https://blog.csdn.net/f641385712/category_9831549.html
+https://cloud.tencent.com/developer/user/6158873
+
+Eureka 源码解析:
+http://www.iocoder.cn/Eureka
+
+【SpringCloud Eureka源码】从Eureka Client发起注册请求到Eureka Server处理的整个服务注册过程:
+https://www.cnblogs.com/trust-freedom/p/10218145.html
+https://www.cnblogs.com/trust-freedom/p/10310606.html
+
+遗留非SpringBoot传统项目接入Eureka注册与服务发现:
+https://blog.csdn.net/vakinge/article/details/78810321

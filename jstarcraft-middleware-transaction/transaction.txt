@@ -1,0 +1,36 @@
+如何选择分布式事务形态:
+https://blog.csdn.net/skyesx/article/details/82834439
+
+分布式事务选型的取舍:
+https://zhuanlan.zhihu.com/p/388856898
+
+终于有人把“TCC分布式事务”实现原理讲明白了！:
+https://www.cnblogs.com/jajian/p/10014145.html
+
+分布式事务:
+http://www.tianshouzhi.com/api/tutorials/distributed_transaction
+
+“若干分布式事务框架”与“我的偏见”:
+https://www.cnblogs.com/skyesx/p/10041923.html
+
+分布式事务框架Seata及EasyTransaction架构的比对思考:
+https://www.cnblogs.com/skyesx/p/10674700.html
+
+LCN解决分布式事务原理解析+项目实战（原创精华版）:
+https://www.cnblogs.com/lmyupupblogs/p/12499815.html
+
+Seata 是一款开源的分布式事务解决方案，致力于在微服务架构下提供高性能和简单易用的分布式事务服务:
+https://seata.io/zh-cn/
+https://github.com/seata
+
+Seata 分布式事务实践和开源详解:
+https://www.sofastack.tech/blog/seata-distributed-transaction-deep-dive
+
+分布式事务 Seata(一) 理解什么是XA 2PC、3PC:
+https://www.jianshu.com/p/0659417fb864
+分布式事务 Seata(二) 理解什么是AT、TCC、Saga:
+https://www.jianshu.com/p/f2caa8737b7b
+
+TCC 几个框架的测试情况记录:
+https://blog.csdn.net/yongyou890410/article/details/82719062
+

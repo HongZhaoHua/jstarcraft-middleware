@@ -1,0 +1,5 @@
+深入理解SpringCloud之自动注册服务:
+https://www.cnblogs.com/niechen/p/8893759.html
+
+深度解析SpringCloud之服务注册与发现机制:
+https://mp.weixin.qq.com/s?__biz=MzU1NzY1Nzc1OQ==&mid=2247484139&idx=1&sn=67075c41ada8321fd32cc61dc61dbf42&pass_ticket=gWOK%2bWZ8ZWAXRPJEvIcF9qiigsrEuP/ZVB/48jaj6T5QJ5she49kJp1DOAADI7Tu

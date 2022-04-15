@@ -1,0 +1,2 @@
+Windows 安装启动 ZooKeeper（单机）:
+https://www.jianshu.com/p/bd89cc432e29

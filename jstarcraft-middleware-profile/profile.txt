@@ -1,0 +1,11 @@
+配置中心(无生命周期)
+实例需要感知配置中心变化
+
+配置中心基本概念:
+https://www.dazhuanlan.com/2020/03/10/5e6740dd0b52c
+
+QConf 是一个分布式配置管理工具:
+https://github.com/Qihoo360/QConf/blob/master/README_ZH.md
+
+cfg4j ("configuration for Java") is a configuration library for Java distributed apps (and more):
+https://github.com/cfg4j/cfg4j

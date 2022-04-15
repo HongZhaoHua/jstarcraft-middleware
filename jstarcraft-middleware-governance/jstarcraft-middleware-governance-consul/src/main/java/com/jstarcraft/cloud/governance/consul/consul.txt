@@ -1,0 +1,17 @@
+Windows下安装Consul:
+https://blog.csdn.net/qq_769932247/article/details/87270502
+
+Consul之服务注册与发现:
+https://www.cnblogs.com/duanxz/p/9661932.html
+
+Consul之服务健康监测:
+https://www.cnblogs.com/duanxz/p/9662862.html
+
+Consul之ACL配置使用:
+https://www.cnblogs.com/duanxz/p/9663582.html
+
+服务注册发现、配置中心集一体的 Spring Cloud Consul:
+https://www.cnblogs.com/fengzheng/p/11421110.html
+
+Consul配置参数大全、详解、总结:
+https://www.cnblogs.com/sunsky303/p/9209024.html

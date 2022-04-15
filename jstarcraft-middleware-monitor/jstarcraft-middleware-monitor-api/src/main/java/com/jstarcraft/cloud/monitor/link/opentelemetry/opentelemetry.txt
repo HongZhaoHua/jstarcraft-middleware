@@ -1,0 +1,11 @@
+OpenTelemetry官方文档:
+https://opentelemetry.io
+
+OpenTelemetry Specification:
+https://github.com/open-telemetry/opentelemetry-specification
+
+OpenTelemetry Instrumentation for Java:
+https://github.com/open-telemetry/opentelemetry-java-instrumentation
+
+penTelemetry-可观察性的新时代:
+https://www.jianshu.com/p/4c19591bd7d2

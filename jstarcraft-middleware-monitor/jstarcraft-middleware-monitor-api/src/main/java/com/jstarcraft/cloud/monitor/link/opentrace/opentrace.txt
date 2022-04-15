@@ -1,0 +1,35 @@
+分布式链路追踪系列:
+https://www.jianshu.com/p/3b26c6a92354
+
+OpenTracing 链路追踪:
+https://www.cnblogs.com/linguoguo/p/12311225.html
+
+OpenTracing文档中文版:
+https://wu-sheng.gitbooks.io/opentracing-io/content
+
+3rd-Party OpenTracing API Contributions
+https://github.com/opentracing-contrib?language=java
+
+OpenTracing官方标准-中文版:
+https://github.com/opentracing-contrib/opentracing-specification-zh
+
+分布式系统跟踪标准OpenTracing介绍 (中文版文档的补充）:
+https://zhuanlan.zhihu.com/p/48715204
+
+OpenTracing语义规范:
+https://segmentfault.com/a/1190000008895129
+
+OpenTracing-Java实现的灵魂十问:
+https://blog.csdn.net/shuai_wy/article/details/107743925
+
+OpenTracing的Java-API详解:
+https://blog.csdn.net/wanxiaoderen/article/details/107214981
+
+OpenTracing的使用实例（Java）:
+https://developer.aliyun.com/article/746760
+
+Jaeger Tracing（Open Tracing） 遇到线程池哑火:
+https://www.jianshu.com/p/957fa1fd9c2d
+
+OpenTracing(Jaeger) 遭遇多线程:
+https://zhuanlan.zhihu.com/p/102298986

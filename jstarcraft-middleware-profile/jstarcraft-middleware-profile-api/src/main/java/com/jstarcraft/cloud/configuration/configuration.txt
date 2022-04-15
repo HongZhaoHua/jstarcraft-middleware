@@ -1,0 +1,32 @@
+深入理解SpringCloud之分布式配置:
+https://www.cnblogs.com/niechen/p/9068479.html
+
+使用Redis实现Spring Cloud配置中心:
+https://zhuanlan.zhihu.com/p/60545030
+
+SpringCloud-Config 配置中心原理（以 ZK 作为配置中心）
+https://blog.csdn.net/sinat_25518349/article/details/86323476
+
+深入理解SpringCloud之配置刷新
+http://www.cnblogs.com/niechen/p/8979578.html
+
+SpringCloud 详解配置刷新的原理
+https://blog.csdn.net/cml_blog/article/details/78411312
+
+Spring Boot自定义配置属性源(PropertySource):
+http://www.cppcns.com/ruanjian/java/230185.html
+
+Spring Boot自定义配置源:
+https://www.cnblogs.com/lizo/p/7683300.html
+
+聊聊Spring Cloud Config:
+https://blog.coding.net/blog/spring-cloud-config
+
+Spring Cloud 配置服务:
+https://www.cnblogs.com/dragonfei/p/6083193.html
+
+Spring Cloud Config 流程源码详解:
+https://www.jianshu.com/p/cd27dac270a2
+
+@RefreshScope那些事:
+https://www.jianshu.com/p/188013dd3d02

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.jstarcraft</groupId>
+        <artifactId>jstarcraft-middleware</artifactId>
+        <version>1.0</version>
+    </parent>
+
+    <artifactId>jstarcraft-middleware-profile</artifactId>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>jstarcraft-middleware-profile-api</module>
+        <module>jstarcraft-middleware-profile-apollo</module>
+        <module>jstarcraft-middleware-profile-config</module>
+        <module>jstarcraft-middleware-profile-consul</module>
+        <module>jstarcraft-middleware-profile-etcd</module>
+        <module>jstarcraft-middleware-profile-nacos</module>
+        <module>jstarcraft-middleware-profile-redis</module>
+        <module>jstarcraft-middleware-profile-zookeeper</module>
+    </modules>
+</project>

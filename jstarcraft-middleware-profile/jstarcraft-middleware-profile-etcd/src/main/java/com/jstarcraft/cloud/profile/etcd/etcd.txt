@@ -1,0 +1,18 @@
+Windows系统下etcd的安装与使用:
+https://blog.csdn.net/skh2015java/article/details/80712214
+https://www.jianshu.com/p/288369fab398
+
+etcd官方文档中文版:
+https://doczhcn.gitbook.io/etcd
+
+Java 操作etcd v2--v3对比:
+https://www.jianshu.com/p/44b04eec32dd
+
+彻底搞懂 etcd 系列文章:
+https://www.cnblogs.com/aoho/tag/etcd
+
+Spring Cloud Etcd 项目，将 Etcd 接入 Spring Cloud 体系中，通过 spring-cloud-etcd-discovery 模块实现服务的注册与发现，通过 spring-cloud-etcd-config 模块实现分布式配置:
+https://github.com/spring-cloud-incubator/spring-cloud-etcd
+
+etcd 3 Java API:
+https://blog.csdn.net/qq_15769369/article/details/82693107

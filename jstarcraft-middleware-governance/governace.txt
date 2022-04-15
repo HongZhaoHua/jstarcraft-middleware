@@ -1,0 +1,11 @@
+注册中心(有生命周期)
+注册中心需要感知实例状态变化
+
+微服务架构中的服务发现:
+https://www.jianshu.com/p/1bf9a46efe7a
+
+主流微服务注册中心浅析和对比:
+https://developer.aliyun.com/article/698930
+
+Spring Cloud 网卡选择:
+https://blog.csdn.net/xichenguan/article/details/76557065

@@ -1,0 +1,5 @@
+Baggage Specification:
+https://github.com/w3c/baggage
+
+Baggage API:
+https://github.com/open-telemetry/opentelemetry-specification/blob/master/specification/baggage/api.md

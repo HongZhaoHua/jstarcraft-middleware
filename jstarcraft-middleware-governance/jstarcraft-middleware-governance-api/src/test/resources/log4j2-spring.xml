@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Configuration的2个属性status和monitorInterval,分别是状态日志级别以及重新刷新配置文件间隔 -->
+<Configuration status="FATAL">
+    <Properties>
+        <Property name="PATTERN" value="%d{HH:mm:ss} [%t] %p %C.%M():%L - %m%n" />
+    </Properties>
+
+    <Appenders>
+        <!-- 控制台日志 -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="${PATTERN}" />
+            <ThresholdFilter level="DEBUG" onMatch="ACCEPT" onMismatch="DENY" />
+        </Console>
+    </Appenders>
+
+    <Loggers>
+        <Root level="DEBUG">
+            <AppenderRef ref="Console" />
+        </Root>
+
+        <Logger name="com.netflix.eureka" level="DEBUG">
+        </Logger>
+    </Loggers>
+</Configuration>

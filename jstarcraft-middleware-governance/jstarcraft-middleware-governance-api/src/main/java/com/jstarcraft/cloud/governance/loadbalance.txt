@@ -1,0 +1,17 @@
+Feign client 负载均衡:
+https://my.oschina.net/wecanweup/blog/3238261
+
+Ribbon实现客户端负载均衡:
+https://blog.csdn.net/lzxlfly/article/details/87895630
+
+Ribbon源码必备知识:
+https://zhuanlan.zhihu.com/p/141653137
+
+深入理解Ribbon之源码解析:
+https://blog.csdn.net/forezp/article/details/74820899
+
+Spring Cloud Ribbon 客户端配置详解:
+https://www.cnblogs.com/li3807/p/7469024.html
+
+Ribbon如何自定义客户端配置和全局配置:
+https://blog.csdn.net/Trust_FreeDom/article/details/103094726
