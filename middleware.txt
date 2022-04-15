@@ -1,0 +1,26 @@
+The Java Multi-Cloud Toolkit:
+http://jclouds.apache.org
+
+你懂什么是云原生吗？:
+https://zhuanlan.zhihu.com/p/110421613
+
+Spring Cloud Hoxton系列的一个汇总篇:
+https://blog.csdn.net/Mrs_chens/article/details/103777155
+
+史上最简单的 SpringCloud 教程:
+https://blog.csdn.net/forezp/article/details/70148833
+
+IaaS、PaaS、SaaS、BaaS和FaaS, 这些区别你真的了解吗？:
+https://blog.csdn.net/CharlesYooSky/article/details/103021510
+
+微服务架构模式系列文章:
+https://blog.csdn.net/xn_sung/category_6385510.html
+ 
+深度剖析Spark分布式执行原理:
+https://zhuanlan.zhihu.com/p/25772054
+
+Nepxion面向企业级微服务的开源框架和组件:
+https://github.com/Nepxion
+
+iBase4J:
+https://github.com/iBase4J/iBase4J

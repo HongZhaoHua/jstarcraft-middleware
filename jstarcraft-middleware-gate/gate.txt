@@ -1,0 +1,5 @@
+常见API网关汇总：NGINX vs. ZUUL vs. Spring Cloud Gateway vs. Linkerd vs. Kong:
+https://blog.csdn.net/qq_29281307/article/details/90235261
+
+Nepxion Discovery is an enhancement for Spring Cloud Discovery with gray release, router, weight, limitation, circuit breaker, degrade, isolation, monitor, tracing:
+https://github.com/Nepxion/Discovery
